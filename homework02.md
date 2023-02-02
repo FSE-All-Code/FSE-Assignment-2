@@ -46,3 +46,23 @@
 To create a successful software system, these obstacles must be carefully evaluated and managed as they can provide substantial challenges for software development teams.
 
 <hr>
+
+#### Question 4: <ins>Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
+
+#### Ans:
+According to Brooks, the field of software engineering has lots of hidden issues like blown-out budgets and missing schedules that are not easy to spot as they resemble werewolves that appear like a human but can transform without any warning causing havoc.
+Thus, a silver bullet is needed to resolve the problem.
+According to Brooks, we require more approaches to problems to go a step closer to an order-of-magnitude solution.
+Software engineering, often known as a systematic engineering approach to software development, deals with the design, development, testing, deployment, and maintenance of software. The notion of "Abstraction" is the most important instrument available to be used.
+Software engineering deals with the following issues.
+- Issue of Design
+- Issue of Regulation
+- Issue of Communication
+- Issue of Scale
+
+The field of software engineering focuses on putting computer science's results to practical use. For example, we employ data structures and algorithms that we either directly build or consume using a library (but it's the concepts that count) when we design real-world algorithms. Having said that, software engineering and computer science depend on one another there is some overlap between the two fields.
+
+
+We may use the distinction between chemical engineers and chemists to help us better comprehend. Chemists frequently concentrate on creating new materials and procedures, evaluating substances, determining their physical qualities, and verifying hypotheses. Computer science works with theory and diverse algorithms similarly. Chemical engineers concentrate on developing these novel concepts and discoveries into marketable products. The majority of work is involved in the planning, building, and running of factories and equipment, with a concentration on producing goods at a scale that is affordable to most people and for profit. The same thing is accomplished through software engineering, which uses theoretically created methods to solve practical issues while preserving the systems' general functionality.
+
+<hr>
